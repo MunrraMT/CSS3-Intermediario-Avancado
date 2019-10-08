@@ -1,4 +1,4 @@
-# Curso CSS3
+# Curso CSS3 - Intermediário & avançado
 ## Udemy - Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos 
 ## [Site do Curso](https://www.udemy.com/course/web-completo/)
 
