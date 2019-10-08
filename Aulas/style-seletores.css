@@ -1,0 +1,18 @@
+* {border: 5px; margin: 0; padding: 0;}
+
+h1 {color: red;}
+h2 {color: green;}
+h3 {color: greenyellow;}
+h4 {color: darkgoldenrod;}
+
+.azul {color: blue;}
+h2.azul {color: cornflowerblue;}
+#h3 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: bold; font-size: 30px;}
+
+ol>h5 {color: brown;}
+li>p {color: red;}
+
+div p {color: darkblue; font-weight: bold;}
+h2+p {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 30px;}
+
+li~p {color: darkmagenta; font-weight: bold;}
