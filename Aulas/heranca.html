@@ -8,15 +8,27 @@
 
     <style>
     
-    body {color: red; font-size: 25px; border: 5px solid red;}
-    .pagina {}
+    /*
+    body {color: red; font-size: 25px; border: 5px solid #ff0000; background-color: grey;}
+    .pagina {border: 5px solid blue; padding: 10px;}
+
+    p {color: red !important;}
+    p {color: blue;}
+    */
+
+    * {color: red;}
+    h2 {color: blue;}
+    h2.verde {color: green;}
+    div>h2 {color: rgb(24, 243, 196);}
+    #amarelo {color: yellow;}
+    h2#amarelo {color: yellowgreen;}
 
     </style>
 </head>
 <body>
     
     <div class="pagina">
-        <h2>Título</h2>
+        <h2 class="verde" id="amarelo">Título</h2>
         <p>bla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla</p>
         <p>bla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla</p>
     </div>
