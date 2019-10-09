@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Barra de Navegação Horizontal</title>
+</head>
+<style>
+
+    ul {
+        margin: 0; 
+        padding: 0; 
+        list-style-type: none;          
+        width: 720px; 
+        background: #159cb0 url(./imagem/fundo-horizontal.png) repeat-x;
+        float: left;
+    }
+    ul li {float: left;}
+    ul a {
+        display: block;
+        padding: 0 2em;
+        line-height: 2em;
+        text-decoration: none;
+        color: white;
+        background: url(./imagem/divisor.png) repeat-y left top;
+    }
+    .primeiro a {background: none;}
+    ul a:hover {color: #085662; background: #44cade;}
+
+
+</style>
+<body>
+
+<ul>
+    <li class="primeiro"><a href="#">home</a></li>
+    <li><a href="#">sobre</a></li>
+    <li><a href="#">serviços</a></li>
+    <li><a href="#">notícias</a></li>
+    <li><a href="#">contato</a></li>
+</ul>
+
+</body>
+</html>
