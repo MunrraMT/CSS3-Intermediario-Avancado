@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tabelas</title>
+    <style>
+    
+        body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+        table {width: 500px; border-collapse: collapse;}
+        th, td {padding: 7px;}
+        th {
+            text-transform: uppercase; 
+            border-top: 1px solid #999; 
+            border-bottom: 1px solid #111; 
+            text-align: left; 
+            font-size: 90%; 
+            letter-spacing: 0.1em;
+        }
+        tr.alternado:hover {
+            background-color: #c3e6e5;
+        }
+        .numero {
+            text-align: right;
+
+        }
+
+    </style>
+</head>
+<body>
+
+    <table>
+        <caption><h2>Estilizando Tabelas</h2></caption>
+        <tr>
+            <th>Código</th>
+            <th>Produtos</th>
+            <th class="numero">Preço</th>
+        </tr>
+        <tr class="alternado">
+            <td>001</td>
+            <td>Notebook</td>
+            <td class="numero">R$ 2.500</td>
+        </tr>
+        <tr class="alternado">
+            <td>002</td>
+            <td>Notebook</td>
+            <td class="numero">R$ 4.500</td>
+        </tr>
+        <tr class="alternado">
+            <td>003</td>
+            <td>Notebook</td>
+            <td class="numero">R$ 5.500</td>
+        </tr>
+        <tr class="alternado">
+            <td>004</td>
+            <td>Notebook</td>
+            <td class="numero">R$ 8.500</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
