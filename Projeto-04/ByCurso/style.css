@@ -1,0 +1,9 @@
+* {margin: 0; padding: 0;}
+
+body {font-family: Verdana, Geneva, Tahoma, sans-serif; background: #fff url(../imagem/fundo.png) repeat-x left top;}
+
+#container {width: 750px; margin: 0px auto;}
+
+#topo {height: 150px; padding-top: 25px; background: url(../imagem/detalhe-topo.png) no-repeat right top;}
+#topo h1 {margin-top: -200px;}
+
