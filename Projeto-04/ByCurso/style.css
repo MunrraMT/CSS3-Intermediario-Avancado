@@ -2,6 +2,10 @@
 
 body {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background: #fff url(../imagem/fundo.png) repeat-x left top;}
 ul {margin: 0; padding: 0; list-style: none;}
+label {display: block; cursor: pointer;}
+
+input {font-size: 0.9em; background-color: #fff; padding: 5px;}
+input.submit {width: 80px; color: #fff; background-color: #b10333; border: 2px solid #870529; padding: 5px;}
 
 body.home #navegacao a#home, 
 body.brasil #navegacao a#brasil, 
@@ -34,8 +38,13 @@ body.fotos #navegacao a#fotos {
 
 .caixa {margin: 10px 0; padding: 5px; background: #f3f3f3 url(../imagem/fundo-caixa.png);}
 .caixa h2 {font-size: 1.1em; background: #294c71; color: #fff; padding: 5px;}
-
 .caixa-conteudo {background: #fff; padding: 5px; margin-top: 5px;}
+.caixa-conteudo #email {width: 90%;}
+
+#lateral ul a {font-size: 0.9em; padding: 3px; display: block; line-height: 30px; color: #000; text-decoration: none;}
+#lateral ul a:hover {color: #a1a1a1; background: #f9f9f9 url(../imagem/marcador.png) no-repeat left center; padding-left: 20px;}
+
+
 
 #container-rodape {clear: both; background-color: #294c71; padding: 20px;}
 #container-rodape #rodape {width: 750px; margin: 0 auto; color: #fff;}
