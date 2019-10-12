@@ -1,7 +1,7 @@
 * {margin: 0; padding: 0;}
 
 body {font-family: Verdana, Geneva, Tahoma, sans-serif; background: #fff url(../imagem/fundo.png) repeat-x left top;}
-ul {margin 0; padding: 0; list-style: none;}
+ul {margin: 0; padding: 0; list-style: none;}
 
 body.home #navegacao a#home, 
 body.brasil #navegacao a#brasil, 
