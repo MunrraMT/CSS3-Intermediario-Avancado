@@ -5,6 +5,9 @@ ul {margin: 0; padding: 0; list-style: none;}
 label {display: block; cursor: pointer;}
 h3 {text-transform: uppercase; display: block; font-size: 0.8em; line-height: 2em;}
 
+a:link, a:visited {color: #b10333; padding: 2px;}
+a:hover {color: #e50040;}
+
 input {font-size: 0.9em; background-color: #fff; padding: 5px;}
 input.submit {width: 80px; color: #fff; background-color: #b10333; border: 2px solid #870529; padding: 5px;}
 
@@ -48,6 +51,13 @@ body.fotos #navegacao a#fotos {
 
 .destaque h3 {background-color: #b10333; color: white;}
 .entrevista h3 {background-color: #de003e;}
+
+#lista-noticia li {padding: 2px; border-bottom: 1px solid #ccc; height: 62px;}
+#lista-noticia li:hover {background: #eeeeee; cursor: pointer;}
+#lista-noticia a {text-decoration: none; padding: 0;}
+#lista-noticia img {float: left; margin: 5px; width: 80px;}
+#lista-noticia h3 {font-size: 0.8em; text-align: left; color: #3e7ab9;}
+#lista-noticia a p {font-size: 0.7em; color: #000000;}
 
 #container-rodape {clear: both; background-color: #294c71; padding: 20px;}
 #container-rodape #rodape {width: 750px; margin: 0 auto; color: #fff;}
