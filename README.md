@@ -7,14 +7,14 @@
 #### Projeto 04: 
 Para ver o site feito por min, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByAndre/index.html).
 
-Para ver o site feito na aula, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByCurso/index.html).
+Para ver o site feito pelo professor, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByCurso/index.html).
 
 Para ver o código no GitHUB clique [AQUI](https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-04/).
 
 #### Projeto 05: 
 Para ver o site feito por min, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByAndre/index.html).
 
-Para ver o site feito na aula, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByCurso/index.html).
+Para ver o site feito pelo professor, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByCurso/index.html).
 
 Para ver o código no GitHUB clique [AQUI](https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-05/).
 
