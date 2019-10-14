@@ -7,52 +7,39 @@
 
 <table>
     <thead>
+        <th></th>
         <th>Projeto 04</th>
         <th>Projeto 05</th>
     </thead>
     <tbody>
         <tr>
+            <td>Para ver o site feito por min:</td>
             <td>
-            Para ver o site feito por min, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByAndre/index.html).
+            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByAndre/index.html"> AQUI </a>
             </td>
             <td>
-            Para ver o site feito por min, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByAndre/index.html).
-            </td>
-        </tr>
-        <tr>
-            <td>
-            Para ver o site feito pelo professor, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByCurso/index.html).
-            </td>
-            <td>
-            Para ver o site feito pelo professor, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByCurso/index.html).
+            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByAndre/index.html"> AQUI </a>
             </td>
         </tr>
         <tr>
+            <td>Para ver o site feito pelo professor do curso:</td>
             <td>
-            Para ver o código no GitHUB clique [AQUI](https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-04/).
+            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByProfessor/index.html"> AQUI </a>
             </td>
             <td>
-            Para ver o código no GitHUB clique [AQUI](https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-05/).
+            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByProfessor/index.html"> AQUI </a>
+            </td>
+        </tr>
+        <tr>
+            <td>Para ver o código no GitHUB:</td>
+            <td>
+            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/"> AQUI </a>
+            </td>
+            <td>
+            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/"> AQUI </a>
             </td>
         </tr>
     </tbody>
-</table>
-
-
-
-#### Projeto 04: 
-Para ver o site feito por min, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByAndre/index.html).
-
-Para ver o site feito pelo professor, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/ByCurso/index.html).
-
-Para ver o código no GitHUB clique [AQUI](https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-04/).
-
-#### Projeto 05: 
-Para ver o site feito por min, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByAndre/index.html).
-
-Para ver o site feito pelo professor, clique [AQUI](https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/ByCurso/index.html).
-
-Para ver o código no GitHUB clique [AQUI](https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-05/).
 </table>
 
 
