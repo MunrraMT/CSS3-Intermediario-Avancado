@@ -32,10 +32,10 @@
         <tr>
             <td>Para ver o código no GitHUB:</td>
             <td>
-            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-04/"> AQUI </a>
+            <a href="https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-04"> AQUI </a>
             </td>
             <td>
-            <a href="https://munrramt.github.io/CSS3-Intermediario-Avancado/Projeto-05/"> AQUI </a>
+            <a href="https://github.com/MunrraMT/CSS3-Intermediario-Avancado/tree/master/Projeto-05"> AQUI </a>
             </td>
         </tr>
     </tbody>
