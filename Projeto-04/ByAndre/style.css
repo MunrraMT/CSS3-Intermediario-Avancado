@@ -1,10 +1,59 @@
-body {margin: 0; padding: 0; box-sizing: border-box;}
-h1 {font-size: 0;}
+* {color: #000;padding: 0; margin: 0}
+body {background: url(../imagem/fundo.png) repeat-x left top; font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
-.cabecalho {width: 950px; height: 200px; margin-right: auto; margin-left: auto; background-color: blue;}
+.clear {clear: both;}
 
-.navegacao-cabecalho {}
-.navegacao-cabecalho a {text-decoration: none; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px; font-weight: bold; text-transform: capitalize; color: white; background-color: #970000; padding: 15px; margin: 0; display: block; float: left; border: 0;}
-img.fundo {margin-top: -150px;}
+#banner {width: 750px; margin: 0 auto;}
+#banner h1 {font-size: 0;}
+#banner .logo {width: 152px; height: 66px; margin-top: 25px; float: left;}
+#banner .mapa-brasil {width: 176px; height: 179px; float: right; margin: 0; padding: 0;}
 
-8
+#navegacao-topo {float: left; margin-top: -55px; font-size: 0.9em;}
+#navegacao-topo li {padding: 14px 15px; background-color: #b10333; margin: 0; float: left; line-height: 18px;}
+#navegacao-topo li a {color: #fff; text-decoration: none; font-weight: bold;}
+#navegacao-topo a:hover {color: #69001d;}
+#navegacao-topo .primeiro {background-color: #de003e;}
+#navegacao-topo .primeiro a {cursor: text;}
+#navegacao-topo .primeiro a:hover {color: #fff;}
+
+main {margin-top: 55px; width: 750px; margin-left: auto; margin-right: auto;}
+h3 {text-transform: uppercase; display: block; font-size: 0.8em; line-height: 2em;}
+li {list-style-type: none;}
+
+#primario {width: 270px; float: left; margin: 0 0 20px 195px;}
+#secundario {width: 270px; float: left; margin: 0 0 20px 15px;}
+#lateral {width: 180px; float: left; margin: 0 0 20px -750px;}
+
+.caixa {margin: 10px 0; padding: 5px; background: #f3f3f3 url(../imagem/fundo-caixa.png); box-sizing: border-box;}
+.caixa h2 {font-size: 1.1em; background: #294c71; color: #fff; padding: 5px;}
+.caixa-conteudo {background: #fff; padding: 5px; margin-top: 5px;}
+.caixa h3 {text-align: center; font-weight: bold; margin-bottom: 3px;}
+.caixa img {width: 100%; margin-bottom: 10px;}
+.caixa p {font-size: 0.9em;}
+.caixa a:link, a:visited {color: #b10333; padding: 2px;}
+.caixa a:hover {color: #e50040;}
+
+#navegacao-lateral ul a {font-size: 0.8em; padding: 3px; display: block; line-height: 30px; color: #000; text-decoration: none;}
+#navegacao-lateral ul a:hover {color: #a1a1a1; background: #f9f9f9 url(../imagem/marcador.png) no-repeat left center; padding-left: 20px;}
+
+#destaque h3 {background-color: #b10333; color: white;}
+#entrevista h3 {background-color: #de003e;}
+
+#newsletter label {display: block; cursor: pointer;}
+#newsletter #email {width: 90%;}
+#newsletter input {font-size: 0.8em; background-color: #fff; padding: 5px;}
+#newsletter input.submit {width: 80px; color: #fff; background-color: #b10333; border: 2px solid #870529; padding: 5px;}
+
+#lista-noticia ul {margin: 0; padding: 0; list-style: none;}
+#lista-noticia li {padding: 2px; border-bottom: 1px solid #ccc; height: 62px;}
+#lista-noticia li:hover {background: #eeeeee; cursor: pointer;}
+#lista-noticia a {text-decoration: none; padding: 0;}
+#lista-noticia img {float: left; margin: 5px; width: 80px;}
+#lista-noticia h3 {font-size: 0.7em; text-align: left; color: #3e7ab9;}
+#lista-noticia a p {font-size: 0.6em; color: #000000;}
+
+#rodape {background-color: #294c71; padding: 20px; text-align: center;}
+#rodape p {color: #fff;}
+
+#duas-colunas #primario {width: 555px;}
+#uma-coluna #primario {width: 750px; margin: 0 0 20px 0;}
