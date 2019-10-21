@@ -1,0 +1,8 @@
+* {margin: 0; padding: 0;}
+body {font-family: Helvetica, 'Trebuchet MS', sans-serif; background: #fff url(../imagem/bg.png); margin: 15px;}
+
+#container {background: #ede9cc;}
+#topo {background: #dbcd87; height: 15.4em; min-height: 250px; position: relative;}
+#area-logo {background: url(../imagem/topo-imagem-principal.png) no-repeat; width: 100%; height: 250px; position: absolute; top: 0; left: 0;}
+#area-menu {background: url(../imagem/topo-imagem-lateral.png) no-repeat; width: 450px; height: 250px; position: absolute; top: 0; right: 0;}
+
