@@ -1,0 +1,32 @@
+* {margin: 0; padding: 0;}
+body {max-width: 1220px; min-width: 900px; margin: 0 auto;}
+h1 {font-size: 0;}
+li {list-style-type: none;}
+a:link, a:visited, a:hover, a:active {text-decoration: none;}
+
+.cabecalho {background: url(../imagem/topo-imagem-principal.png) no-repeat left top; width: 100%; height: 250px; overflow: hidden; margin-bottom: 10px;}
+.cabecalho .logo {float: left; margin: 15px 0 0 15px;}
+.cabecalho .navegacao-topo  {float: right; position: relative; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.cabecalho .fundo-lateral {margin-right: -150px}
+.cabecalho .depoimento {position: absolute; top: 70px; left: 245px;}
+.cabecalho .links-lateral {position: absolute; top: 75px; left: 90px;}
+.cabecalho .links-lateral a {padding: 5px; color: rgb(107, 97, 43); line-height: 30px;}
+.cabecalho .links-lateral a:hover {background-color: #fff;}
+.cabecalho .links-topo {position: absolute; top: 15px; left: 90px; border: 1px solid rgb(107, 97, 43); border-right-width: 0; border-left-width: 0; line-height: 35px; font-size: 0.65em;}
+.cabecalho .links-topo li {display: inline;}
+.cabecalho .links-topo a {padding: 5px;; color: rgb(107, 97, 43);}
+.cabecalho .links-topo #reservar a {display: inline; font-size: 1.3em; color: rgb(223, 212, 154); background-color: rgb(107, 97, 43); margin-left: 20px;}
+
+.coluna-principal {background: rgb(243, 241, 219); float: left; width: 50%; height: 550px; box-sizing: border-box; margin-bottom: 10px;}
+.conteudo-principal {padding: 40px;}
+.conteudo-principal h2 {color: rgb(107, 97, 43); margin-bottom: 20px;}
+.conteudo-principal p {text-align: justify; color: #000; margin-bottom: 10px;}
+
+.coluna-lateral {background: rgb(223, 212, 154); float: right; width: 50%; height: 550px; box-sizing: border-box; margin-bottom: 10px; padding: 20px;}
+.conteudo-lateral {padding: 20px; height: 120px;}
+.conteudo-lateral:hover {background-color: rgb(243, 241, 219); cursor: pointer;}
+.conteudo-lateral img {height: 120px; margin-right: 20px; float: left;}
+.conteudo-lateral h3 {color: rgb(107, 97, 43); margin-bottom: 10px;}
+.conteudo-lateral p {text-align: justify; color: #000;}
+
+.rodape {clear: both; background: rgb(107, 97, 43); color: rgb(223, 212, 154); text-align: center; margin: 0 auto; line-height: 40px;}
