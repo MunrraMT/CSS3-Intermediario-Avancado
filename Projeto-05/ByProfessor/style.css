@@ -22,4 +22,13 @@ ul#navegacao a:hover {background: #fdf6be;}
 #area-lateral {float: right; width: 50%; background: url(../imagem/bg-area-lateral.png) top left repeat-x; padding: 20px 0;}
 .conteudo {margin: 0 auto; width: 90%;}
 
-#rodape {clear: both;}
+#beneficios li {padding: 8px; border-bottom: 1px solid #f3efcb; height: 6em;}
+#beneficios li:hover {background: #f6f3d6; cursor: pointer;}
+#beneficios li a img {float: left; margin-right: 8px;}
+#beneficios li a p {color: #000000; font-size: 0.8em;} 
+#beneficios li a h3 {color: #615b2d; font-size: 1em; padding: 5px 0; background: url(../imagem/ornamento.png) no-repeat right center;}
+
+#rodape {clear: both; padding: 16px; background: #fff url(../imagem/bg-rodape.png) repeat-x top; color: #7d7640;}
+
+h2 {color: #7d7640; font-size: 1.1em; padding: 5px 0;}
+p {font-size: 1em; margin-bottom: 10px;}
