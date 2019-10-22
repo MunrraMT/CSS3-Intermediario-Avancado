@@ -2,7 +2,7 @@
 body {font-family: Helvetica, 'Trebuchet MS', sans-serif; background: #fff url(../imagem/bg.png); margin: 15px;}
 a {text-decoration: none;}
 
-#container {background: #ede9cc; margin: 0 auto; min-width: 740px; max-width: 1180px;}
+#container {background: #ede9cc url(../imagem/bg-container.png) repeat-y top center; margin: 0 auto; min-width: 740px; max-width: 1180px;}
 #topo {background: #dbcd87; height: 15.4em; min-height: 250px; position: relative;}
 #area-logo {background: url(../imagem/topo-imagem-principal.png) no-repeat; width: 100%; height: 250px; position: absolute; z-index: 1; top: 0; left: 0;}
 .logo a {position: absolute; top: 15px; left: 15px; z-index: 3; background: url(../imagem/logo.png) no-repeat; width: 151px; height: 66px; text-indent: -1000px;}
@@ -18,3 +18,8 @@ ul#navegacao a {text-transform: uppercase; font-size: 0.8em; padding: 5px; color
 ul#navegacao a:hover {background: #fdf6be;}
 .depoimento {width: 226px; height: 164px; float: right;}
 
+#area-principal {float: left; width: 50%; background: url(../imagem/bg-area-principal.png) top left repeat-x; padding: 15px 0;}
+#area-lateral {float: right; width: 50%; background: url(../imagem/bg-area-lateral.png) top left repeat-x; padding: 20px 0;}
+.conteudo {margin: 0 auto; width: 90%;}
+
+#rodape {clear: both;}
